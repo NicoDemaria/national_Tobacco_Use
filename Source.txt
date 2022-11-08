@@ -1,1 +1,17 @@
 https://ourworldindata.org/smoking
+
+International Mortality and Smoking Statistics (IMASS)
+Data: Consumption of tobacco products, prevalence of smoking and mortality
+Geographical coverage: 30 countries
+Time span: Often spanning back 100 years
+
+
+Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease (GBD)
+Data: Death rates and absolute number of premature deaths from smoking and secondhand-smoke
+Geographical coverage: Global, across all regions and countries
+Time span: 1990 onwards
+
+
+World Health Organization (WHO) Global Health Observatory (GHO)
+Data: Smoking prevalence, prices, taxes and policy support
+Geographical coverage: Global, across all regions and countries
