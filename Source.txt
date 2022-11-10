@@ -1,5 +1,5 @@
 https://ourworldindata.org/smoking
-a
+
 International Mortality and Smoking Statistics (IMASS)
 Data: Consumption of tobacco products, prevalence of smoking and mortality
 Geographical coverage: 30 countries
